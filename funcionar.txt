@@ -1,0 +1,4 @@
+array_get() não funciona nas novas versões
+foi substituido por
+use Illuminate\Support\Arr;
+Arr::get();
